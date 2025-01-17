@@ -13,3 +13,7 @@ Those are my public repos:
 My Stack Overflow contributions:
 
 - https://stackoverflow.com/users/1476885/zanon
+
+My X account:
+
+- https://x.com/zanon_dev
