@@ -9,3 +9,7 @@ Those are my public repos:
 - [serverless-store](https://github.com/diegozanon/serverless-store): a project developed as a tutorial for [my book](https://www.packtpub.com/en-us/product/building-serverless-web-applications-9781787123076). It showcases the use of multiple serverless tools (AWS) combined with a React-based frontend.
 - [serverless-notifications](https://github.com/diegozanon/serverless-notifications): a proof-of-concept for serverless notifications. The way that I've implemented was innovative at the time (2016).
 - [estomatoweb-scraper](estomatoweb-scraper): a desktop application built with NW.js (Node.js) to support my wife and her research team during her master's degree collecting data using web scraping.
+
+My Stack Overflow contributions:
+
+- https://stackoverflow.com/users/1476885/zanon
